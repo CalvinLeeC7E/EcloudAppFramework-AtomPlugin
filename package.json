@@ -2,13 +2,17 @@
   "name": "ecloud-generate",
   "main": "./lib/ecloud-generate",
   "version": "1.0.0",
-  "description": "generate app controller",
+  "description": "generate app controller and view",
   "keywords": [
   ],
   "repository": "https://github.com/atom/ecloud-generate",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
+  },
+  "author": {
+    "name": "LeeBo",
+    "url": "https://github.com/llb421270473"
   },
   "dependencies": {
     "fs-plus":"2.9.1"
