@@ -14,7 +14,12 @@
     "url": "https://github.com/llb421270473"
   },
   "dependencies": {
-    "fs-plus": "2.9.1"
+    "fs-plus": "2.9.1",
+    "async": "0.2.10",
+    "mkdirp":"0.3.5",
+    "rimraf":"2.2.8",
+    "underscore":"1.6.0",
+    "underscore-plus":"1.6.6"
   },
   "_atomModuleCache": {
     "version": 1,
