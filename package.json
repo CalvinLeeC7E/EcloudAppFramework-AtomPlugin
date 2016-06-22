@@ -5,7 +5,7 @@
   "description": "generate app controller and view",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/ecloud-generate",
+  "repository": "https://github.com/llb421270473/EcloudAppFramework-AtomPlugin",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
