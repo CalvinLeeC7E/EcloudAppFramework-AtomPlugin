@@ -1,10 +1,9 @@
 {
   "name": "ecloud-generate",
   "main": "./lib/ecloud-generate",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "generate app controller and view",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/llb421270473/EcloudAppFramework-AtomPlugin",
   "license": "MIT",
   "engines": {
@@ -15,7 +14,7 @@
     "url": "https://github.com/llb421270473"
   },
   "dependencies": {
-    "fs-plus":"2.9.1"
+    "fs-plus": "2.9.1"
   },
   "_atomModuleCache": {
     "version": 1,
