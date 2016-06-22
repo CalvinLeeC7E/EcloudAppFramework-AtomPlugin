@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Controller EcloudGenerate",
+        "command": "ecloud-generate:controller"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "EcloudGenerate",
+          "submenu": [
+            {
+              "label": "Controller",
+              "command": "ecloud-generate:controller"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
